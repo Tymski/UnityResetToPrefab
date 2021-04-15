@@ -1,0 +1,14 @@
+{
+    "name": "com.tymski.reset-to-prefab",
+    "displayName": "RectTransform Reset",
+    "description": "Adds option to ResetToPrefab in RectTransform context menu.",
+    "version": "1.0.0",
+    "unity": "2017.1",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Tymski/UnityResetToPrefab"
+    },
+    "author": {
+        "name": "Tymski"
+    }
+}
